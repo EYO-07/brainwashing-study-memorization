@@ -9,13 +9,13 @@ Para usar os recursos você precisará:
 2) Instalar/Ter Instalado versão 3 do python (caso sua versão seja incompatível use python 3.5.1)
 3) Instalar/Ter Instalado o ambiente jupyter (posteriormente farei um tutorial de instalação do jupyter)
 
-Se tiver o pip instalado no python (para confirmar digite no prompt de comando:>>> pip --version) então basta digitar no prompt de comando:
+Se tiver o pip instalado no python (para confirmar digite no prompt de comando: pip --version) então basta digitar no prompt de comando:
 
->>> pip install jupyter
+> pip install jupyter
 
 4) Ativar os widgets do jupyter no prompt de comando. Abaixo tem a sequência de comandos para ativar as extensões do jupyter e abrir o jupyter notebook.
 
->>> jupyter nbextension enable --py widgetsnbextension <br>
+> jupyter nbextension enable --py widgetsnbextension <br>
 
 
 5) Baixe o Folder DIR_PTE : DIRETORIO PARADIGMA TRIALETICO DE ESTUDO
@@ -24,8 +24,8 @@ Se tiver o pip instalado no python (para confirmar digite no prompt de comando:>
 
 digite:
 
->>> jupyter nbextension enable --py widgetsnbextension <br>
->>> jupyter notebook
+> jupyter nbextension enable --py widgetsnbextension <br>
+> jupyter notebook
 
 7) Abra o arquivo 0_LEIAMENOJUPYTER_12.ipynb e explore seu conteúdo.
 
