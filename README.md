@@ -18,7 +18,7 @@ Se tiver o pip instalado no python (para confirmar digite no prompt de comando: 
 > jupyter nbextension enable --py widgetsnbextension <br>
 
 
-5) Baixe o Folder DIR_PTE : DIRETORIO PARADIGMA TRIALETICO DE ESTUDO
+5) Baixe o Folder DIR_PTE
 
 6) Abra o terminal e mude o diretório do terminal para o diretório DIR_PTE que você baixou
 
