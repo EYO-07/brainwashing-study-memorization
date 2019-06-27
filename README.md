@@ -6,7 +6,7 @@ Programa de Estudo e Memorização codificado e interpretado em linguagem Python
 3) Instale o ambiente jupyter (posteriormente farei um tutorial de instalação do jupyter)
 4) Ative os widgets do jupyter no prompt de comando e abra o jupyter
 
-jupyter nbextension enable --py widgetsnbextension
+jupyter nbextension enable --py widgetsnbextension <hr>
 jupyter notebook
 
 Baixe o Folder DIR_PTE : DIRETORIO PARADIGMA TRIALETICO DE ESTUDO
