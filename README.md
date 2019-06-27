@@ -5,7 +5,7 @@ Este programa é baseado no paradigma trialético de estudo que consiste na ênf
 
 Para usar os recursos você precisará:
 
-1) Instalar/Ter Instalado algum browser compatível com o ambiente jupyter (a maior parte é compatível, eu uso o vivaldi)
+1) Instalar/Ter Instalado algum browser compatível com o ambiente jupyter
 2) Instalar/Ter Instalado versão 3 do python (caso sua versão seja incompatível use python 3.5.1)
 3) Instalar/Ter Instalado o ambiente jupyter (posteriormente farei um tutorial de instalação do jupyter)
 
