@@ -8,7 +8,12 @@ Para usar os recursos você precisará:
 1) Instalar/Ter Instalado algum browser compatível com o ambiente jupyter (a maior parte é compatível, eu uso o vivaldi)
 2) Instalar/Ter Instalado versão 3 do python (caso sua versão seja incompatível use python 3.5.1)
 3) Instalar/Ter Instalado o ambiente jupyter (posteriormente farei um tutorial de instalação do jupyter)
-4) Ativar os widgets do jupyter no prompt de comando.
+
+Se tiver o pip instalado no python (para confirmar digite no prompt de comando: pip --version) então basta digitar:
+
+pip install jupyter
+
+4) Ativar os widgets do jupyter no prompt de comando. Abaixo tem a sequência de comandos para ativar as extensões do jupyter e abrir o jupyter notebook.
 
 jupyter nbextension enable --py widgetsnbextension <br>
 jupyter notebook
