@@ -3,7 +3,7 @@ Programa de Estudo e Memorização codificado e interpretado em linguagem Python
 
 Este programa é baseado no paradigma trialético de estudo que consiste na ênfase em três etapas de estudo, a primeira <b>Memorização</b>, essencial para as outras duas, a segunda <b>Análise</b>, consistindo na etapa em que se verifica as explicações, demonstrações e o conteúdo de verdade das informações, e a terceira <b>Aplicação</b> que tem como objetivo usar na prática determinado conteúdo.
 
-Paradigma trialético tem origem na trialética humana que consiste em definir (Emoção, Intelecto, Vontade) como os três eixos principais consciência humana . Tais eixos direcionam as vontades da mente e devem estar em equilíbrio para manter a mente saudável, no caso do estudo temos Memorização associado ao eixo emocional ligado mais a percepção, beleza, organização, a Análise ligado ao intelecto e a Aplicação ligado a vontade.
+Paradigma trialético tem origem na trialética humana que consiste em definir (Emoção, Intelecto, Vontade) como os três eixos principais consciência humana . Tais eixos direcionam as vontades da mente e devem estar em equilíbrio para manter a mente saudável, no caso do estudo temos Memorização associado ao eixo emocional ligado mais a percepção, beleza, organização, a Análise ligado ao intelecto e a Aplicação ligado a vontade. O que se acredita no método é que ter em equilíbrio a memorização, análise e aplicação garantem um estudo eficiente e estável.
 
 Para usar os recursos você precisará:
 
