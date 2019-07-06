@@ -1,5 +1,5 @@
 # brainwashing-study-memorization
-Programa de Estudo e Memorização codificado e interpretado em linguagem Python no Ambiente Jupyter.
+Programa/Rotina de Estudo e Memorização codificado e interpretado em linguagem Python no Ambiente Jupyter.
 
 Este programa é baseado no paradigma trialético de estudo que consiste na ênfase em três etapas de estudo, a primeira <b>Memorização</b>, essencial para as outras duas, a segunda <b>Análise</b>, consistindo na etapa em que se verifica as explicações, demonstrações e o conteúdo de verdade das informações, e a terceira <b>Aplicação</b> que tem como objetivo usar na prática determinado conteúdo.
 
